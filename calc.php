@@ -6,7 +6,7 @@ declare(strict_types=1);
  */
 function increment(int $n): int
 {
-    return $n + 1;
+    return $n + 3;
 }
 
 // Comando di esecuzione: php count.php [numero]
